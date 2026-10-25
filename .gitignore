@@ -1,0 +1,10 @@
+.DS_Store
+.local/
+node_modules/
+dist/
+*.p12
+*.pem
+*.key
+*.wgt
+*.tpk
+validation-report.json
